@@ -1,0 +1,6 @@
+requests
+opencv-python
+colour-demosaicing
+torchsummary
+matplotlib
+numpy
