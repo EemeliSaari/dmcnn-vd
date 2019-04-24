@@ -4,3 +4,4 @@ colour-demosaicing
 torchsummary
 matplotlib
 numpy
+jupyter
